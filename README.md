@@ -15,7 +15,7 @@ SmartCampus/
 | Nombre | Rol | correo |
 |---------|------|----------------|
 | Bilal Zaidi | Coordinador | bizaxx@alumnatflorida.es |
-| jose | Coordinador | jogame@alumnatflorida.es |
+| jose | profesor | jogame@alumnatflorida.es |
 | mohammed el marebt | Coordinador | moelxx@alumnatflorida.es |
 
 
