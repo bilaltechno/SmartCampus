@@ -7,9 +7,9 @@ Permite a los usuarios consultar, reservar y administrar espacios del campus.
 ## Estructura del repositorio
 SmartCampus/
 │
-├── CodigoFuente/ → contiene el código, scripts y configuraciones
-├── DocumentacionTecnica/ → manuales técnicos y documentación del sistema
-└── Entregables/ → documentos finales del proyecto (actas, alcances, informes)
+├── CodigoFuente/ → Contiene el código, scripts y configuraciones.
+├── DocumentacionTecnica/ → Manuales técnicos y documentación del sistema.
+└── Entregables/ → Documentos finales del proyecto (actas, alcances, informes).
 
 ## Roles del equipo
 | Nombre | Rol | correo |
@@ -17,6 +17,12 @@ SmartCampus/
 | Bilal Zaidi | Coordinador | bizaxx@alumnatflorida.es |
 | jose | profesor | jogame@alumnatflorida.es |
 | mohammed el marebt | Coordinador | moelxx@alumnatflorida.es |
+
+##  Estado actual del proyecto
+✅ Estructura del repositorio creada correctamente.  
+✅ Documentos subidos en la carpeta **Entregables/**.  
+🟡 Carpetas **CodigoFuente/** y **DocumentacionTecnica/** vacías (se completarán más adelante).  
+✅ Archivo README.md completado.
 
 
 
