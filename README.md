@@ -7,9 +7,9 @@ Permite a los usuarios consultar, reservar y administrar espacios del campus.
 ## Estructura del repositorio
 SmartCampus/
 │
-├── CodigoFuente/ → Contiene el código, scripts y configuraciones.
-├── DocumentacionTecnica/ → Manuales técnicos y documentación del sistema.
-└── Entregables/ → Documentos finales del proyecto (actas, alcances, informes).
+├── CodigoFuente/ → contiene el código, scripts y configuraciones
+├── DocumentacionTecnica/ → manuales técnicos y documentación del sistema
+└── Entregables/ → documentos finales del proyecto (actas, alcances, informes)
 
 ## Roles del equipo
 | Nombre | Rol | correo |
