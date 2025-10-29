@@ -12,9 +12,12 @@ SmartCampus/
 └── Entregables/ → documentos finales del proyecto (actas, alcances, informes)
 
 ## Roles del equipo
-| Nombre | Rol | Responsabilidad |
+| Nombre | Rol | correo |
 |---------|------|----------------|
-| Bilal Zaidi | Coordinador | Organización del repositorio y documentación |
-| jose | profesor | jefe |
+| Bilal Zaidi | Coordinador | bizaxx@alumnatflorida.es |
+| jose | Coordinador | jogame@alumnatflorida.es |
+| mohammed el marebt | Coordinador | moelxx@alumnatflorida.es |
+
+
 
 
